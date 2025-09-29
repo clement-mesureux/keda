@@ -847,6 +847,13 @@
                     "optional": true,
                     "default": "false",
                     "metadataVariableReadable": true
+                },
+                {
+                    "name": "caseInsensitiveDemandsProcessing",
+                    "type": "string",
+                    "optional": true,
+                    "default": "false",
+                    "metadataVariableReadable": true
                 }
             ]
         },
